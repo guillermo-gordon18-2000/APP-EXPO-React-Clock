@@ -61,15 +61,17 @@
 
 El proyecto de reloj con Expo de React es una aplicación simple desarrollada con tecnologías modernas como Expo y React Native. La aplicación muestra un reloj digital en pantalla con la hora actual.
 
-### Características del Proyecto:
+## Características del Proyecto
 
-- **Reloj Digital:** Muestra la hora actual en formato digital.
-- **Interfaz Intuitiva:** Interfaz de usuario limpia y fácil de usar.
-- **Diseño Personalizable:** Posibilidad de personalizar el diseño del reloj según las preferencias del usuario.
+- **Conexión con Firebase:** Integra una conexión con Firebase para almacenar y gestionar datos relacionados con las marcaciones de las áreas laborales.
+- **Generación de UUID:** Genera un UUID único para cada marcación basado en parámetros obtenidos del navegador, como la longitud y la latitud.
+- **Gestión de Marcaciones:** Proporciona una interfaz intuitiva para que los usuarios realicen y gestionen marcaciones en áreas laborales.
+
 
 ### Capturas de Pantalla
 
 [Inserta aquí capturas de pantalla del proyecto si las tienes]
+![APP-React-Clock](https://github.com/guillermo-gordon18-2000/APP-EXPO-React-Clock/assets/83618044/6eee3297-8356-480d-98a9-7fa1f02a451c)
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
 
