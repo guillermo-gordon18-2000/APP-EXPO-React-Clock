@@ -71,9 +71,9 @@ El proyecto de reloj con Expo de React es una aplicación simple desarrollada co
 ### Capturas de Pantalla
 
 [Inserta aquí capturas de pantalla del proyecto si las tienes]
-<div align="center">
+
     ![APP-React-Clock](https://github.com/guillermo-gordon18-2000/APP-EXPO-React-Clock/assets/83618044/6eee3297-8356-480d-98a9-7fa1f02a451c)
-</div>
+
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
 
 ## Requisitos
