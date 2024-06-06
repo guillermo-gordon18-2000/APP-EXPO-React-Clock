@@ -72,7 +72,7 @@ El proyecto de reloj con Expo de React es una aplicación simple desarrollada co
 
 [Inserta aquí capturas de pantalla del proyecto si las tienes]
 
-    ![APP-React-Clock](https://github.com/guillermo-gordon18-2000/APP-EXPO-React-Clock/assets/83618044/6eee3297-8356-480d-98a9-7fa1f02a451c)
+  ![APP-React-Clock](https://github.com/guillermo-gordon18-2000/APP-EXPO-React-Clock/assets/83618044/6eee3297-8356-480d-98a9-7fa1f02a451c)
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
 
@@ -97,6 +97,3 @@ El proyecto de reloj con Expo de React es una aplicación simple desarrollada co
   Para ejecutar el proyecto en la versión web, utiliza el siguiente comando:
 ```sh
 expo start --web
-
-   
-   
